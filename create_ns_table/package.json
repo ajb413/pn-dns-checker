@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "async": "latest",
+    "csvtojson": "latest",
+    "pg": "^6.1.2",
+    "pubnub": "latest",
+    "sqlite3": "latest"
+  }
+}
